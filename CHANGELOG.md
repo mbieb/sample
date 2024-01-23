@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/mbieb/sample/compare/v1.2.0...v1.3.0) (2024-01-23)
+
+
+### Features
+
+* add console 222 ([e6043e5](https://github.com/mbieb/sample/commit/e6043e55f527a1f57d813a0232f72005627c50d0))
+
+
+### Bug Fixes
+
+* fix something cool ([34a5cfb](https://github.com/mbieb/sample/commit/34a5cfb6577f40bc8b023cdabe4421d23a5617c3))
+
 ## [1.2.0](https://github.com/mbieb/sample/compare/v1.1.3...v1.2.0) (2024-01-23)
 
 
