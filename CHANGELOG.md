@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/mbieb/sample/compare/v1.3.0...v1.4.0) (2024-01-23)
+
+
+### Features
+
+* add new feature ([d048d6f](https://github.com/mbieb/sample/commit/d048d6f1a3d48b80382d739e1030b90c75066440))
+
 ## [1.3.0](https://github.com/mbieb/sample/compare/v1.2.0...v1.3.0) (2024-01-23)
 
 
